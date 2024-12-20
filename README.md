@@ -73,7 +73,7 @@ o	Minimum 4GB RAM (8GB+ recommended)
 
 1.	Clone this repository: 
 
-2.	git clone https://github.com/yourusername/virtualization-technologies.git
+2.	git clone https://github.com/sivakrishnasiripurapu/virtualization-technologies.git
 
 3.	Explore individual sections: 
 
